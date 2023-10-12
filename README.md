@@ -1,6 +1,6 @@
 This is the official implement of our code "Generative Calibration for In-context Learning" in EMNLP2023 Findings. In this paper, we propose generative calibration (GC), a lightweight calibration method for in-context learning (ICL) that significantly improves the ICL performance and achieves new state-of-art, as shown in the following figure:
 
-![img]()
+![img](img/4-shot.pdf)
 
 To use the code, first, please install the requirements:
 
